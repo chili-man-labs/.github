@@ -1,6 +1,6 @@
 # 🌶️ Chili Man Labs
 
-> *Bringing the heat to software development* 🔥
+> *Dedicated to the "Chili Man", my sweet bulldog Rocky.* 🔥
 
 ---
 
@@ -36,8 +36,3 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
----
-
-<p align="center">
-  <i>Made with 🌶️ by <a href="https://github.com/joel-grant">Joel Grant</a></i>
-</p>
