@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-  <i>Made with 🌶️ by <a href="https://github.com/joelgrant">Joel Grant</a></i>
+  <i>Made with 🌶️ by <a href="https://github.com/joel-grant">Joel Grant</a></i>
 </p>
